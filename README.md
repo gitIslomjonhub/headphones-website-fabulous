@@ -3,4 +3,4 @@
 - Html css js project
 - Headphones online store 
 
--![preview img](/pri.png)
+![preview img](/pri.png)
